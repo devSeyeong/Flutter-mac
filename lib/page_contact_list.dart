@@ -19,7 +19,7 @@ class _ContactListPageState extends State<ContactListPage> {
     Iterable<Contact> contacts =
         await ContactsService.getContacts(withThumbnails: false);
     setState(() {
-      _contacts = _contacts;
+      _contacts = contacts;
     });
   }
 

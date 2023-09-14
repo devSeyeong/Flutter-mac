@@ -2,6 +2,7 @@ import 'package:contacts_service/contacts_service.dart';
 import 'package:first_flutter_app/contacts_demo_v1.dart';
 import 'package:flutter/material.dart';
 import 'page_contact_detail.dart';
+import 'page_contact_list.dart';
 
 void main()=> runApp(ContactsDemoV3());
 
