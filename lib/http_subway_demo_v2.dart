@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'page_subway_main.dart';
+import 'page_subway_info.dart';
 
 void main() => runApp(const SubwayDemo());
 
